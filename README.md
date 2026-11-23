@@ -12,8 +12,14 @@ If it happens twice, it becomes a script.
 **Currently**
 
 - Teaching agents to use real tools instead of talking about them
-- Building an auto-editor around `ffmpeg` and local models
+- Running NextPhase's free AI editor natively on Windows, no WSL
 - Taking "what if this was a script?" too literally
+
+**Latest experiment**
+
+[**editor-v1-windows**](https://github.com/NovaHollow/editor-v1-windows) — a talking-head recording in, a fast documentary-style cut out. Free, local, and finally working on Windows.
+
+[![Editor V1 contact sheet](https://github.com/NovaHollow/editor-v1-windows/raw/main/assets/preview-sheet.jpg)](https://github.com/NovaHollow/editor-v1-windows)
 
 **Things I make**
 
